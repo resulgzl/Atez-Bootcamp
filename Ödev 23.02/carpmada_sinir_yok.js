@@ -1,6 +1,3 @@
-
-
-
 carpma = (...args) => {
   let a = 1;
   args.forEach((i) => 
