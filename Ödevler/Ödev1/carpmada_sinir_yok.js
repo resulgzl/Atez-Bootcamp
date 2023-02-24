@@ -11,4 +11,4 @@ carpma = (...args) => {
   console.log(a);
 };
 
-carpma(2,4,8,5)
+carpma(2,4,8,5,7)
